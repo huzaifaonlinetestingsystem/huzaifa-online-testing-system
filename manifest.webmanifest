@@ -1,0 +1,19 @@
+{
+  "name": "Huzaifa Online Testing System",
+  "short_name": "Huzaifa Tests",
+  "description": "Online examinations for students and teachers, with administrator approval before testing.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f5f7fb",
+  "theme_color": "#12233f",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

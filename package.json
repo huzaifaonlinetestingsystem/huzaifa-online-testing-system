@@ -1,0 +1,18 @@
+{
+  "name":"online-mcq-exam-portal",
+  "version":"3.0.0",
+  "description":"Mobile-friendly online MCQ examination portal for students and teachers",
+  "main":"server.js",
+  "scripts":{"start":"node server.js"},
+  "dependencies":{
+    "bcryptjs":"^2.4.3",
+    "dotenv":"^16.4.7",
+    "express":"^4.21.2",
+    "express-rate-limit":"^7.5.0",
+    "express-session":"^1.18.1",
+    "helmet":"^8.0.0",
+    "pg":"^8.13.1",
+    "connect-pg-simple":"^10.0.0",
+    "nodemailer":"^6.10.1"
+  }
+}
